@@ -1,0 +1,19 @@
+{
+  "name": "my-bash",
+  "version": "1.0.0",
+  "description": "makes requests",
+  "main": "bash.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeopleMakeCulture/node-shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeopleMakeCulture/node-shell/issues"
+  },
+  "homepage": "https://github.com/PeopleMakeCulture/node-shell#readme"
+}
