@@ -11,7 +11,7 @@ const request = require('request');
 function curl(http){
 	request.get(http)
 	.on('response', function(response){
-		console.log(response)
+		console.log(response);
 	})
 }
 
