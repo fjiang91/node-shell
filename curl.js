@@ -9,7 +9,7 @@ const request = require('request');
 // }
 
 function curl(http){
-	request.get(http)
+	request.get(`http://${http}`)
 	.on('response', function(response){
 		console.log(response);
 	})
